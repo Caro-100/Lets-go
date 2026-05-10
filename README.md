@@ -34,24 +34,26 @@ my ChatGPT account, which I did successfully.
 
 ### 5. Creating the GitHub Repository
 Went to my GitHub account and created a new public repository 
-called "Documenting-Process-", enabled README option.
+called "Lets-go-", enabled README option.
 
 ### 6. Cloning the Repository in Cursor
-At first I couldn't find a way to open the repository from Cursor. 
+At first, I couldn't find a way to open the repository from Cursor. 
 After researching, I found that Git needed to be installed 
-separately for Cursor to connect to GitHub. Once Git was installed, 
-I clicked "Clone repo" and Cursor asked me to authenticate with 
-GitHub using a one-time code. I copied the code, authorized 
-Visual Studio Code, and successfully linked my account. I then 
-searched for my repository using Ctrl+Alt and selected it from 
-the list. Cursor asked me to choose a destination folder — I 
-created a new folder on my desktop and selected it as the 
-repository destination. The repository opened successfully.
+separately for Cursor to connect to GitHub. Once Git was installed, the clone repository option was enabled.
+I clicked "Clone repo", and Cursor asked me to authenticate with 
+GitHub using a one-time code to sychronize my Github account with Cursor. 
+I copied the code, authorized GitHub connect with Cursor, and successfully linked my account. 
+I then searched for my repository using Ctrl+Shift+P, which shows a search section at the top of the browser window. From there, I selected my repository using the link that appeared in the list. 
+Cursor asked me to choose a destination folder — I created a new folder on my desktop and selected it as the repository destination. 
+The repository opened successfully.
 
 ### 7. Editing the README
 Once the repository was open in Cursor, the README.md file was 
 visible in the file explorer. I opened it and documented the 
-entire process in this file.
+entire process in this file. I wrote everything in the Markdown window. 
+To view in the preview, I had to save the changes. 
+Then, on the left side of the window, there were 4 icons, the third one, which looks like a Y with 2 little circles, has the option to save the changes with the "Commit" button. clicked on it.
+After committing, the button changed to upload the changes to GitHub. There was no issue during this process.   
 
 
 ## Problems I Ran Into and How I Solved Them
