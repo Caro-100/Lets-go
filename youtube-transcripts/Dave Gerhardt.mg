@@ -1,10 +1,6 @@
 
 ## How to Crush Email Marketing in B2B 
 
-# tactiq.io free youtube transcript
-# How to Crush Email Marketing in B2B (2026 Guide)
-# https://www.youtube.com/watch/mnJL8lWJS5Y
-
 00:00:00.080 Email is one of the most crowded
 00:00:01.600 channels in marketing, but it's also
 00:00:03.600 still one of the highest returning and
@@ -1542,3 +1538,8 @@
 00:52:51.040 staying ahead and we'll be okay. All
 00:52:52.319 right. All right. We'll see youall
 00:52:53.839 later. Good job everybody.
+
+tactiq.io free youtube transcript
+How to Crush Email Marketing in B2B (2026 Guide)
+https://www.youtube.com/watch/mnJL8lWJS5Y
+
