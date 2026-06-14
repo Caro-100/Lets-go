@@ -1,5 +1,5 @@
 
-## How to Crush Email Marketing in B2B (2026 Guide) by Dave Gerhardt
+## How to Crush Email Marketing in B2B 
 
 # tactiq.io free youtube transcript
 # How to Crush Email Marketing in B2B (2026 Guide)
